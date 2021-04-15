@@ -1,6 +1,6 @@
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Shubham - aka [shubhsonixp][website] 
 ## I'm a Penetration Testing Learner !
-- 🌱 What's your current status _______. 
+- 🌱 I'm just learning and exploring cyber security field. 
 - 🥅 2021 Goals: To get ranked on bugcrowd and other bug bounty platforms.
 - ⚡ I'm a Football Fan "A Red Devil" #GGMU.
 - 👨‍💻 Most of my projects are available on Github.
