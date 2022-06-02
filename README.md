@@ -1,5 +1,5 @@
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Shubham - aka [shubhsonixp][website] 
-## I'm a Penetration Testing Learner !
+## Little bit about me!!
 - 🌱 I'm just learning and creating stuff for people. 
 - 🥅 2022 Goals: To get ranked on bugcrowd and other bug bounty platforms.
 - ⚡ I'm a Football Fan "A Red Devil" #GGMU.
