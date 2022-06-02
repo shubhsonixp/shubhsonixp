@@ -12,7 +12,7 @@
 
 [<img align="left" alt="shubhamverma0628 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<a target="_blank" href="https://www.linkedin.com/in/shubhamverma0628/">
+<a target="_blank" href="https://www.linkedin.com/in/shubhsonixp/">
   <img align="left" alt="Shubams's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
